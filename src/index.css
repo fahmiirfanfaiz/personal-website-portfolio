@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+@theme{
+    --font-montserrat: "Montserrat", serif;
+    --font-poppins: "Poppins", sans-serif;
+    --font-inter: "Inter", serif;
+}
